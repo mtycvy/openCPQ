@@ -3,7 +3,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import Immutable from "immutable";
 
-import {CGroup, CSelect, CList, CPrimitive} from "./opencpq.js"
+import {CGroup, CSelect, CList, CPrimitive} from "."
 import render from "./renderers/ugly-renderer.js";
 import modeColors from "./renderers/mode-colors.js";
 
